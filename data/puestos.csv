@@ -1,0 +1,101 @@
+id_puesto,rol,departamento,seniority
+1,Ejecutivo,Ventas,JR
+2,Ejecutivo,Ventas,MID
+3,Ejecutivo,Ventas,SR
+4,Ejecutivo,Ventas,LEAD
+5,Representante,Ventas,JR
+6,Representante,Ventas,MID
+7,Representante,Ventas,SR
+8,Representante,Ventas,LEAD
+9,Gerente,Ventas,JR
+10,Gerente,Ventas,MID
+11,Gerente,Ventas,SR
+12,Gerente,Ventas,LEAD
+13,Analista,Ventas,JR
+14,Analista,Ventas,MID
+15,Analista,Ventas,SR
+16,Analista,Ventas,LEAD
+17,BizDev,Ventas,JR
+18,BizDev,Ventas,MID
+19,BizDev,Ventas,SR
+20,BizDev,Ventas,LEAD
+21,Marketing,Marketing,JR
+22,Marketing,Marketing,MID
+23,Marketing,Marketing,SR
+24,Marketing,Marketing,LEAD
+25,Analista MKT,Marketing,JR
+26,Analista MKT,Marketing,MID
+27,Analista MKT,Marketing,SR
+28,Analista MKT,Marketing,LEAD
+29,Manager MKT,Marketing,JR
+30,Manager MKT,Marketing,MID
+31,Manager MKT,Marketing,SR
+32,Manager MKT,Marketing,LEAD
+33,Content,Marketing,JR
+34,Content,Marketing,MID
+35,Content,Marketing,SR
+36,Content,Marketing,LEAD
+37,SEO,Marketing,JR
+38,SEO,Marketing,MID
+39,SEO,Marketing,SR
+40,SEO,Marketing,LEAD
+41,Dev,IT,JR
+42,Dev,IT,MID
+43,Dev,IT,SR
+44,Dev,IT,LEAD
+45,Data,IT,JR
+46,Data,IT,MID
+47,Data,IT,SR
+48,Data,IT,LEAD
+49,Sysadmin,IT,JR
+50,Sysadmin,IT,MID
+51,Sysadmin,IT,SR
+52,Sysadmin,IT,LEAD
+53,Soporte,IT,JR
+54,Soporte,IT,MID
+55,Soporte,IT,SR
+56,Soporte,IT,LEAD
+57,Arquitecto,IT,JR
+58,Arquitecto,IT,MID
+59,Arquitecto,IT,SR
+60,Arquitecto,IT,LEAD
+61,HR Analyst,RRHH,JR
+62,HR Analyst,RRHH,MID
+63,HR Analyst,RRHH,SR
+64,HR Analyst,RRHH,LEAD
+65,Recruiter,RRHH,JR
+66,Recruiter,RRHH,MID
+67,Recruiter,RRHH,SR
+68,Recruiter,RRHH,LEAD
+69,HRBP,RRHH,JR
+70,HRBP,RRHH,MID
+71,HRBP,RRHH,SR
+72,HRBP,RRHH,LEAD
+73,Training,RRHH,JR
+74,Training,RRHH,MID
+75,Training,RRHH,SR
+76,Training,RRHH,LEAD
+77,HR Manager,RRHH,JR
+78,HR Manager,RRHH,MID
+79,HR Manager,RRHH,SR
+80,HR Manager,RRHH,LEAD
+81,Analista,Finanzas,JR
+82,Analista,Finanzas,MID
+83,Analista,Finanzas,SR
+84,Analista,Finanzas,LEAD
+85,Contador,Finanzas,JR
+86,Contador,Finanzas,MID
+87,Contador,Finanzas,SR
+88,Contador,Finanzas,LEAD
+89,Controller,Finanzas,JR
+90,Controller,Finanzas,MID
+91,Controller,Finanzas,SR
+92,Controller,Finanzas,LEAD
+93,Tesorería,Finanzas,JR
+94,Tesorería,Finanzas,MID
+95,Tesorería,Finanzas,SR
+96,Tesorería,Finanzas,LEAD
+97,Finanzas Manager,Finanzas,JR
+98,Finanzas Manager,Finanzas,MID
+99,Finanzas Manager,Finanzas,SR
+100,Finanzas Manager,Finanzas,LEAD
