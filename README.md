@@ -1,118 +1,70 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>HR Analytics Dashboard</title>
-</head>
-<body>
+# 📊 HR Analytics Dashboard (2021–2025)
 
-    <!-- Portada -->
-    <h1>📊 HR Analytics Dashboard (2021–2025)</h1>
+<p align="center">
+  <img src="https://github.com/No-Country-simulation/S03-26-Equipo-46-Business-Intelligence/blob/main/Captura%20de%20pantalla%202026-04-16%20094441.png" width="800"/>
+</p>
 
-    <img src="https://github.com/No-Country-simulation/S03-26-Equipo-46-Business-Intelligence/blob/main/Captura%20de%20pantalla%202026-04-16%20094441.png" 
-         alt="Dashboard Preview" 
-         width="800">
+---
 
-    <hr>
+## 🧩 Descripción del Proyecto
 
-    <!-- Descripción -->
-    <h2>🧩 Descripción del Proyecto</h2>
-    <p>
-        Este proyecto consiste en la creación de un <strong>Dashboard interactivo</strong> para la empresa ficticia <strong>HR Tech</strong>, 
-        abarcando el período <strong>2021 a 2025</strong>. El enfoque principal está centrado en el análisis de:
-    </p>
+Este proyecto consiste en la creación de un **Dashboard interactivo** para la empresa ficticia **HR Tech**, abarcando el período **2021 a 2025**.
 
-    <ul>
-        <li>Diversidad</li>
-        <li>Bienestar</li>
-        <li>Inclusión</li>
-    </ul>
+El análisis se centra en tres pilares fundamentales:
 
-    <p>
-        El objetivo fue transformar estos conceptos en variables medibles y analizables para la toma de decisiones estratégicas.
-    </p>
+- 🌍 Diversidad  
+- 🧠 Bienestar  
+- 🤝 Inclusión  
 
-    <hr>
+El objetivo fue transformar estos conceptos en **variables medibles** que permitan generar insights accionables para la toma de decisiones.
 
-    <!-- Metodología -->
-    <h2>⚙️ Metodología de Trabajo</h2>
+---
 
-    <h3>1. Investigación</h3>
-    <p>
-        Se realizó un análisis conceptual para definir cómo operacionalizar variables relacionadas con diversidad, bienestar e inclusión.
-    </p>
+## ⚙️ Metodología de Trabajo
 
-    <h3>2. Generación de Datos</h3>
-    <p>
-        Se simularon datasets utilizando la librería <strong>Faker en Python</strong>, permitiendo trabajar con información realista.
-    </p>
+### 🔎 1. Investigación
+Se realizó un análisis conceptual para definir cómo operacionalizar variables relacionadas con diversidad, bienestar e inclusión.
 
-    <h3>3. Modelado de Datos</h3>
-    <p>
-        Se diseñó un <strong>modelo entidad-relación</strong> para estructurar la información de manera eficiente.
-    </p>
+### 🧪 2. Generación de Datos
+Se simularon datasets utilizando la librería **Faker en Python**, permitiendo trabajar con datos realistas.
 
-    <h3>4. Procesos ETL</h3>
-    <p>
-        Se llevaron a cabo procesos de extracción, transformación y carga (ETL) utilizando:
-    </p>
-    <ul>
-        <li>NumPy</li>
-        <li>Pandas</li>
-    </ul>
+### 🧱 3. Modelado de Datos
+Se diseñó un **modelo entidad-relación (ER)** para estructurar la información de manera eficiente.
 
-    <h3>5. Visualización</h3>
-    <p>
-        Se desarrolló un <strong>Dashboard interactivo</strong> que permite explorar los datos de forma dinámica.
-    </p>
+### 🔄 4. Procesos ETL
+Se desarrollaron procesos de extracción, transformación y carga utilizando:
 
-    <hr>
+- 🐼 Pandas  
+- 🔢 NumPy  
 
-    <!-- Resultados -->
-    <h2>📈 Resultados</h2>
+### 📊 5. Visualización
+Se construyó un **Dashboard interactivo** que permite explorar los datos de forma dinámica.
 
-    <p>
-        Como resultado del proyecto se generaron insights clave y recomendaciones estratégicas basadas en el análisis de los datos.
-    </p>
+---
 
-    <ul>
-        <li>
-            📄 <strong>Reporte completo:</strong><br>
-            <a href="https://difficult-sassafras-27d.notion.site/HR-Analytics-REPORTE-DE-INSIGHTS-Y-RECOMENDACIONES-343c75ca45118072a4dfe8b06875a55c?source=copy_link" target="_blank">
-                Ver reporte de insights y recomendaciones
-            </a>
-        </li>
-        <br>
-        <li>
-            🎥 <strong>Video explicativo:</strong><br>
-            <a href="https://www.youtube.com/watch?v=ACEgBMWup1Q" target="_blank">
-                Ver presentación en YouTube
-            </a>
-        </li>
-    </ul>
+## 📈 Resultados
 
-    <hr>
+A partir del análisis, se generaron **insights clave** y recomendaciones estratégicas para mejorar la gestión de recursos humanos.
 
-    <!-- Tecnologías -->
-    <h2>🛠️ Tecnologías Utilizadas</h2>
+### 📄 Reporte completo
+👉 [Ver insights y recomendaciones](https://difficult-sassafras-27d.notion.site/HR-Analytics-REPORTE-DE-INSIGHTS-Y-RECOMENDACIONES-343c75ca45118072a4dfe8b06875a55c?source=copy_link)
 
-    <ul>
-        <li>Python</li>
-        <li>Pandas</li>
-        <li>NumPy</li>
-        <li>Faker</li>
-        <li>Modelado de Datos (ER)</li>
-        <li>Herramientas de BI</li>
-    </ul>
+### 🎥 Video explicativo
+👉 [Ver presentación en YouTube](https://www.youtube.com/watch?v=ACEgBMWup1Q)
 
-    <hr>
+---
 
-    <!-- Cierre -->
-    <h2>🚀 Conclusión</h2>
-    <p>
-        Este proyecto demuestra cómo el análisis de datos puede aportar valor estratégico en el área de Recursos Humanos, 
-        permitiendo medir y mejorar aspectos clave como la diversidad, el bienestar y la inclusión dentro de una organización.
-    </p>
+## 🛠️ Tecnologías Utilizadas
 
-</body>
-</html>
+- 🐍 Python  
+- 🐼 Pandas  
+- 🔢 NumPy  
+- 🎭 Faker  
+- 🧱 Modelado ER  
+- 📊 Herramientas de Business Intelligence  
+
+---
+
+## 🚀 Conclusión
+
+Este proyecto demuestra cómo el uso de datos puede aportar valor estratégico en el área de Recursos Humanos, permitiendo medir y mejorar aspectos clave como la **diversidad, el bienestar y la inclusión** dentro de una organización.
