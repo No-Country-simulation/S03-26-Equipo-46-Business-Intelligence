@@ -1,7 +1,7 @@
 # 📊 HR Analytics Dashboard (2021–2025)
 
 <p align="center">
-  <img src="https://github.com/No-Country-simulation/S03-26-Equipo-46-Business-Intelligence/blob/main/Captura%20de%20pantalla%202026-04-16%20094441.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/No-Country-simulation/S03-26-Equipo-46-Business-Intelligence/main/Captura%20de%20pantalla%202026-04-16%20094441.png" width="800"/>
 </p>
 
 ---
@@ -47,10 +47,13 @@ Se construyó un **Dashboard interactivo** que permite explorar los datos de for
 A partir del análisis, se generaron **insights clave** y recomendaciones estratégicas para mejorar la gestión de recursos humanos.
 
 ### 📄 Reporte completo
-👉 [Ver insights y recomendaciones](https://difficult-sassafras-27d.notion.site/HR-Analytics-REPORTE-DE-INSIGHTS-Y-RECOMENDACIONES-343c75ca45118072a4dfe8b06875a55c?source=copy_link)
+👉 [Ver insights y recomendaciones](https://difficult-sassafras-27d.notion.site/HR-Analytics-REPORTE-DE-INSIGHTS-Y-RECOMENDACIONES-343c75ca45118072a4dfe8b06875a55c)
 
 ### 🎥 Video explicativo
 👉 [Ver presentación en YouTube](https://www.youtube.com/watch?v=ACEgBMWup1Q)
+
+### 📌 Definición de indicadores de Bienestar, Diversidad e inclusión
+👉 [Ver definición del negocio](https://difficult-sassafras-27d.notion.site/HR-Analytics-Project-Definici-n-de-negocio-d5c758e704014ea6afefb331336d1fce)
 
 ---
 
